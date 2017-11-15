@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_form_type">FormType</string>
+    <string name="title_activity_listof_type">ListofType</string>
+</resources>
